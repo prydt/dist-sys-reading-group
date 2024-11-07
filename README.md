@@ -5,7 +5,7 @@
 | Week | Paper |
 |------|-------|
 | Week 1 (Intro) | [Google's Map Reduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) <br> (optional) [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) <br> (optional) [How to read a (systems) paper](https://sosp19.rcs.uwaterloo.ca/diversity/slides/rebecca.pdf) |
-| Week 2 (Tradeoffs) | [Amazon's Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) |
+| Week 2 (Tradeoffs) | [Amazon's Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) (after having the discussion, I would move this paper further down... too many concepts to introduce this early) |
 | Week 3 (Logical time) | [Time, Clocks, and the Ordering of Events in a Distributed Systems](https://lamport.azurewebsites.net/pubs/time-clocks.pdf) |
 | Week 4 (Consensus!!) | Pick one out of: [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf), [Raft](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14.pdf), or [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf) |
 | Week 5 (Casual consistency) | [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://www.cs.cmu.edu/~dga/papers/cops-sosp2011.pdf) |
