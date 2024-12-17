@@ -10,6 +10,7 @@
 | Week 4 (Consensus!!) | Pick one out of: [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf), [Raft](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14.pdf), or [Viewstamped Replication Revisited](https://pmg.csail.mit.edu/papers/vr-revisited.pdf) |
 | Week 5 (Casual consistency) | [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://www.cs.cmu.edu/~dga/papers/cops-sosp2011.pdf) |
 | Week 6 (CRDTs) | [Conflict-free Replicated Data Types](https://arxiv.org/pdf/1805.06358) |
+| Week 7 (Kafka) | [Kafka: A Distributed Messaging System for Log Processing](https://cs.uwaterloo.ca/~ssalihog/courses/papers/netdb11-final12.pdf) |
 
 
 ## About Me
